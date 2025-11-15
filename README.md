@@ -7,9 +7,8 @@
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Folder Structure](#folder-structure)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+
+  
 
 ## Overview
 This project demonstrates a supervised machine learning workflow using the Iris Flower Dataset.  
@@ -41,4 +40,12 @@ python iris_classifier.py
 
 Example output:
 Accuracy: 0.97
+
+Folder Structure
+
+flower-ml-model/
+├── iris_classifier.py   # Main script to train and test the model
+├── README.md   
+
+
 
