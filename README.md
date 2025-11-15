@@ -14,13 +14,13 @@
 ## Overview
 This project demonstrates a supervised machine learning workflow using the Iris Flower Dataset.  
 The goal is to build a classification model that predicts the species of an iris flower based on its measurements.
-
+This is a supervised learning .
 ## Motivation
 I created this project to:
 - Learn how to load and preprocess a classic dataset
 - Train and evaluate a machine learning model
 - Use Python and scikit-learn for classification tasks
-- Share a clean example that others can learn from
+
 
 ## Dataset
 - *Dataset:* Iris Dataset  
@@ -39,8 +39,6 @@ Usage
 Run the main script:
 python iris_classifier.py
 
-Run the main script:
-python iris_classifier.py
-
 Example output:
 Accuracy: 0.97
+
